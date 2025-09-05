@@ -16,10 +16,10 @@ Determine when to send staff, and how many, to each state.
 We have divided the influenza death numbers into two age groups: under 65 years old and over 65 years old. By making some analysis we decided to concentrate on the second group, since it supposed to be more vulnerable to deaths from influenza. 
 
 ## STAKEHOLDERS
-Hospitals and clinics
-Staffing agency administrators
-Medical agency frontline staff (nurses, physician assistants, and doctors)
-Influenza patients
+- Hospitals and clinics
+- Staffing agency administrators
+- Medical agency frontline staff (nurses, physician assistants, and doctors)
+- Influenza patients
 
 ## GEOGRAPHY 
 All 50 U.S. states (aggregate at state level; can extend to HHS regions if useful for modeling).
