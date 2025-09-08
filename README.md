@@ -50,7 +50,7 @@ The analysis uses two main datasets: CDC Influenza Deaths and U.S. Census data. 
 
 ## CONCLUSION AFTER ANALYSIS 
 To achieve our objective, I conducted a thorough analysis of data and predictions for the year 2018. Following research, I identified two groups of people and determined the most vulnerable one individuals aged 65 and older. The correlation analysis highlighted a robust relationship between the number of deaths and the population size within this age group. Subsequently, I pinpointed states with the highest incidence of influenza deaths. In addition to predicting influenza deaths for those over 65, I extended our forecasts to individuals under 65.
-The next crucial step involves planning for staff allocation, a resource-intensive process, particularly during the influenza season. To guide this allocation effectively, I consider all relevant graphs, charts, and maps highlighting vulnerable areas with the highest influenza death rates. 
+The next crucial step involves planning for staff allocation, a resource-intensive process, particularly during the influenza season. To guide this allocation effectively, I consider all relevant graphs, charts, and maps highlighting vulnerable areas with the highest influenza death rates. Please see the final presentation below. 
 
 ## TABLEAU PRESENTATION 
 https://public.tableau.com/app/profile/anton.grz/viz/2_9INFLUENZADATASTORY/DATASTORY
