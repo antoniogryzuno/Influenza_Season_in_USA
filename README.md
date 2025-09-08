@@ -22,7 +22,7 @@ I have divided the influenza death numbers into two age groups: under 65 years o
 - Influenza patients
 
 ## GEOGRAPHY 
-All 50 U.S. states (aggregate at state level; can extend to HHS regions if useful for modeling).
+All 50 U.S. states
 
 ## HYPOTHESES
 Age‑severity gradient: Individuals ≥60 exhibit higher influenza mortality than those <60.
