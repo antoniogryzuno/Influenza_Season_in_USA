@@ -1,5 +1,5 @@
 # Influenza_Season_in_USA
-This project creates a data-driven staffing plan for U.S. hospitals during influenza season, when demand surges. Using data on flu deaths, patient visits, lab tests, and vaccination, it forecasts needs and guides deployment of limited nurses, PAs, and doctors. The aim is to minimize staffing gaps and ensure timely care.
+This project creates a data-driven staffing plan for U.S. hospitals during influenza season.
 
 ## ABOUT THE PROJECT
 Each winter, the United States experiences an influenza season in which flu incidence spikes and a portion of patients—especially those in vulnerable populations—develop complications that require hospitalization. Hospitals and clinics face short‑term surges that outstrip normal staffing levels. A national medical staffing agency supplies temporary clinicians to cover these peaks.
