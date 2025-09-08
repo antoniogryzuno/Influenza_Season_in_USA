@@ -24,11 +24,25 @@ I have divided the influenza death numbers into two age groups: under 65 years o
 ## GEOGRAPHY 
 All 50 U.S. states (aggregate at state level; can extend to HHS regions if useful for modeling).
 
-## DATA
-Census population data and DCD Influenza Deaths data from 2009 till 2017 across all States of America
-
 ## HYPOTHESES
 Age‑severity gradient: Individuals ≥60 exhibit higher influenza mortality than those <60.
+
+## DATA AND PROCESSING 
+The analysis uses two main datasets: CDC Influenza Deaths and U.S. Census data. Files included in the repository reflect cleaning, validation, transformation, and integration steps:
+
+1.) CDC_Influenza_Deaths_Cleaned – cleaned mortality records.
+
+2.) CDC_Influenza_Deaths_Completeness_Uniqueness – quality checks for missing/duplicate data.
+
+3.) US Census data_Cleaned__Completeness_Uniqueness – processed demographic data with quality checks.
+
+4.) Transforming_CDC_Influenza_Deaths_and_US Census data – harmonized datasets for merging.
+
+5.) Combined Datasets_and_Statistics – merged dataset with descriptive statistics.
+
+6.) Combined_Dataset_Hypothesis_and_Statistical Tests – analysis and testing of hypotheses.
+
+7.) Interim Report – summary of findings, methods, and next steps.
 
 ## TOOLS 
 - Excel for combining several data-sheets, hypothesis testing and analysis
